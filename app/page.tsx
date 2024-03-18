@@ -12,7 +12,7 @@ const frameMetadata = getFrameMetadata({
 });
 
 export const metadata: Metadata = {
-  title: "Cosmic Cowboys",
+  title: "Cosmic Cowboysss",
   description: "A frame telling the story of Cosmic Cowboys",
   openGraph: {
     title: "Cosmic Cowboys",
